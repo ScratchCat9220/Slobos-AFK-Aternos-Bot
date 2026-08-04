@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SMPPPU.aternos.me",
+    "ip": "SMPPPU.aternos.me:46591",
     "port": 46591,
     "version": "",
     "try-creative": false
