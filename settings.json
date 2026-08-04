@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "serverbot.exe",
+    "username": "afkserverbot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "SMPPPU.aternos.me",
     "port": 46591,
-    "version": "",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
